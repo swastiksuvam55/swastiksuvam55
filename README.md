@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @swastiksuvam55
-- 👀 I’m interested in web dev,competitive coding,ml
-- 🌱 I’m currently learning ml,datascience
-- 💞️ I’m looking to collaborate on webdev,ml,datascience
+- 👋 Hi, I’m swastik suvam singh
+- 👀 I’m interested in web dev,ml,blockchain
+- 🌱 I’m currently learning blockchain
+- 💞️ I’m looking to collaborate on webdev,ml
 - 📫 How to reach me - swastikpikun@gmail.com
 
 <!---
