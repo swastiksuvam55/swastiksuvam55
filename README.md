@@ -1,7 +1,7 @@
 - 👋 Hi, I’m swastik suvam singh
 - 👀 I’m interested in web dev,blockchain
 - 🌱 I’m currently learning blockchain
-- 💞️ I’m looking to collaborate on webdev,ml
+- 💞️ I’m looking to collaborate on webdev,blockchain
 - 📫 How to reach me - swastikpikun@gmail.com
 
 <!---
