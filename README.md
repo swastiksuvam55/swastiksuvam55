@@ -33,8 +33,7 @@ current_job: Web3 developer intern and Student at IIIT-BH
 education:
   [
     "Blockchain enthusisast and developer",
-    "Ongoing Bachelor's in IIIT-BH",
-    
+    "Ongoing Bachelor's in IIIT-BH",   
   ]
 
 
@@ -44,8 +43,6 @@ fields_of_interests:
     "Blockchain development",
     "Cloud Computing",
     "UI/UX",
-    
-    
   ]
 technical_background:
   [
