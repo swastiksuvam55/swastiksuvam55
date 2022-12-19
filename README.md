@@ -7,9 +7,6 @@
 </h1>
 
 <p align="center">
-<a href="https://piyushmalhotra.netlify.app/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
 <a href="https://www.linkedin.com/in/swastik-suvam-singh-116324205/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
@@ -98,7 +95,6 @@ hobbies: ["Gaming", "Anime, "Basketball", "Space exploration", "Photography", "G
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swastiksuvam55&theme=radical&show_icons=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastiksuvam55&theme=noctis_minimus&layout=compact&langs_count=8" />
 </a>
-[![Swastik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=swastiksuvam55)](https://github.com/anuraghazra/github-readme-stats)
 
   
 <p align="left">
