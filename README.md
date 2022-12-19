@@ -47,7 +47,7 @@ fields_of_interests:
 technical_background:
   [
     "Intern - Web3 developer in Javascript and Solidity",
-    "Cntent writer - Gadgets and technical articles",
+    "Content writer - Gadgets and technical articles",
   ]
   
 currently_learning: ["GraphQL"]
