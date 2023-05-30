@@ -42,10 +42,10 @@ education:
 
 fields_of_interests:
   [
-    "Web Development",
+    "AI / ML",
     "Blockchain development",
     "Cloud Computing",
-    "UI/UX",
+    
   ]
 technical_background:
   [
