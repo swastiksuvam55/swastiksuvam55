@@ -51,6 +51,7 @@ fields_of_interests:
   ]
 technical_background:
   [
+    "Intern- AI at iAssist Innovations lab",
     "Intern - Web3 developer in Javascript and Solidity",
     "Content writer - Gadgets and technical articles",
   ]
