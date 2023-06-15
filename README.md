@@ -44,6 +44,7 @@ education:
 fields_of_interests:
   [
     "AI / ML",
+    "Mobile",
     "Blockchain development",
     "Cloud Computing",
     
@@ -56,7 +57,7 @@ technical_background:
   
 currently_learning: ["GraphQL"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Anime, "Basketball", "Space exploration", "Photography", "Gym"]
+hobbies: ["Gaming", "Basketball", "Space exploration", "Photography", "Gym"]
 ```
   
 ---  
